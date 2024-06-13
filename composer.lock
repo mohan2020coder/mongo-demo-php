@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3bbcf702fa8af7eead3871c0fb66795d",
+    "content-hash": "e736e7e01cbf2ca0abdc5ec0640dc635",
     "packages": [
         {
             "name": "mongodb/mongodb",
