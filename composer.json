@@ -1,5 +1,19 @@
 {
+    "name": "vendor/mongo-demo-php",
+    "description": "this is to check the connectivity of the mongodb in php.",
+    "license": "Apache-2.0",
     "require": {
         "mongodb/mongodb": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "mohan raj",
+            "email": "mohan18.welcome@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vendor\\PackageName\\": "src/"
+        }
     }
 }
